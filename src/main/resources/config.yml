@@ -1,0 +1,13 @@
+#アイテム保護の手数料
+fee: 10000
+#アイテム保管期間
+boxday: 3
+#必須: データベース設定
+db:
+  sqlite: false
+  mysql:
+    host: localhost
+    port: 3306
+    user: root
+    pass: password
+    db: itemprotect_db

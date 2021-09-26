@@ -1,0 +1,11 @@
+name: Man10ItemProtect
+version: '${project.version}'
+main: red.man10.man10itemprotect.Man10ItemProtect
+api-version: 1.17
+authors: [ Mr_IK ]
+description: Man10 Item Protect Plugin
+commands:
+  mip:
+    description: Man10 Item Protect
+    usage: /<command>
+    default: op
