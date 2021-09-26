@@ -21,7 +21,7 @@ public class ItemKeeper {
     private Man10ItemProtect plugin;
     private SQLManager sql;
 
-    private NamespacedKey key;
+    public NamespacedKey key;
 
     public ItemKeeper(Man10ItemProtect plugin) {
         this.plugin = plugin;
